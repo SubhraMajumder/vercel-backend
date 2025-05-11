@@ -24,14 +24,6 @@
     "job_title": "Assistant Manager"
   },
   {
-    "id": 5,
-    "first_name": "Munroe",
-    "last_name": "Usher",
-    "email": "musher4@etsy.com",
-    "gender": "Male",
-    "job_title": "Senior Quality Engineer"
-  },
-  {
     "id": 6,
     "first_name": "Yolanda",
     "last_name": "Hymor",
@@ -712,22 +704,6 @@
     "job_title": "Research Nurse"
   },
   {
-    "id": 91,
-    "first_name": "Ardisj",
-    "last_name": "Scroyton",
-    "email": "ascroyton2i@diigo.com",
-    "gender": "Female",
-    "job_title": "Senior Developer"
-  },
-  {
-    "id": 92,
-    "first_name": "Glenine",
-    "last_name": "Gurge",
-    "email": "ggurge2j@patch.com",
-    "gender": "Bigender",
-    "job_title": "Actuary"
-  },
-  {
     "id": 93,
     "first_name": "Lenette",
     "last_name": "Stoffels",
@@ -750,53 +726,5 @@
     "email": "ogoose2m@vistaprint.com",
     "gender": "Agender",
     "job_title": "Registered Nurse"
-  },
-  {
-    "id": 96,
-    "first_name": "Del",
-    "last_name": "Pegden",
-    "email": "dpegden2n@quantcast.com",
-    "gender": "Non-binary",
-    "job_title": "Biostatistician IV"
-  },
-  {
-    "id": 97,
-    "first_name": "Dyan",
-    "last_name": "Ibbitt",
-    "email": "dibbitt2o@slate.com",
-    "gender": "Female",
-    "job_title": "Tax Accountant"
-  },
-  {
-    "id": 98,
-    "first_name": "Marysa",
-    "last_name": "Roman",
-    "email": "mroman2p@bing.com",
-    "gender": "Female",
-    "job_title": "Registered Nurse"
-  },
-  {
-    "id": 99,
-    "first_name": "Beverie",
-    "last_name": "Canton",
-    "email": "bcanton2q@g.co",
-    "gender": "Female",
-    "job_title": "Research Associate"
-  },
-  {
-    "id": 100,
-    "first_name": "Matilde",
-    "last_name": "Greenslade",
-    "email": "mgreenslade2r@goodreads.com",
-    "gender": "Genderqueer",
-    "job_title": "Staff Accountant III"
-  },
-  {
-    "first_name": "Subhra",
-    "last_name": "Majumder",
-    "email": "subhramajumder32@gmail.com",
-    "gender": "Male",
-    "job_title": "Software dev",
-    "id": 100
   }
 ]
